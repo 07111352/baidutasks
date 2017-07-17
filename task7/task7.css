@@ -1,0 +1,746 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin:0;
+	padding:0
+}
+
+.main{
+	width:1280px;
+	height:4554px;
+	margin:0 auto;
+}
+<!--网页头部导航-->
+.header{
+	width:100%;
+	height:58px;
+	background-color:#999;
+}
+
+.header_left{
+	float:left;
+	margin-left:55px;
+	margin-top:10px;
+	font-size: 21px;
+    font-family: "SimHei";
+    color: rgb( 57, 58, 58 );
+    line-height: 1.286;
+}
+
+.header_left img{
+	vertical-align:middle;
+	margin-right:10px;
+	width:31px;
+	height:31px;
+}
+
+.header_right{
+	float:right;
+	margin-right:65px;
+}
+
+.header_right li{
+	display:inline;
+	margin-left:42px;
+}
+
+.header_right a{
+	font-size: 14px;
+    font-family: "Microsoft YaHei";
+	color:#77787c;
+	text-decoration:none;
+}
+
+.header_right a:hover{
+	color:rgb( 231, 79, 77 );
+}
+
+.header_right img{
+	vertical-align:middle;
+	margin-right:5px;
+}
+
+.header_line{
+	margin-left:65px;
+}
+
+.header_line{
+	width:65px;
+	height:5px;
+	background-color:#e65051;
+}
+
+<!--Time of new world-->
+.Time_of_new_world{
+	clear:both;
+	margin-top:57px;
+}
+
+.time_of_new_life{
+	font-size: 60px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 255, 255, 255 );
+	margin-top:-640px;
+	margin-left:125px;
+}
+
+.time_of_new_life span{
+	font-size: 21px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 255, 253, 253 );
+	line-height:30px;
+}
+
+.time_of_new_life input{
+	font-size: 30px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 255, 255, 255 );
+    line-height: 0.9;
+	background-color:#e8504f;
+	width: 331px;
+    height: 65px;
+	margin-top:65px;
+	border:0;
+}
+
+<!--second-->
+.second{
+	width:100%;
+	height:248px;
+	background-color: #FFF;;
+	margin-top:415px;
+	margin-left:90px;
+}
+
+.second1{
+	float:left;
+	margin-left:20px;
+}
+
+.third{
+	width:100%;
+	height:371px;
+	background-color: #FFF;;
+}
+
+.second_{
+	width:100%;
+	height:250px;
+	background-color: #FFF;;
+}
+
+.second1_{
+	float:left;
+}
+
+.create{
+	margin-left:88px;
+	margin-top:44px;
+	font-size: 14px;
+    font-family: "SimHei";
+    color: rgb( 118, 119, 119 );
+    line-height: 1.286;
+    text-align: center;
+}
+
+.second1_ img{
+	margin-left:142px;
+	margin-top:40px;
+}
+
+.s_line1,.s_line2,.s_line3{
+	width:2px;
+	height:50px;
+	background-color:#999999;
+	margin-left:82px;
+	float:left;
+	margin-top:128px;
+}
+
+.colorful{
+	margin-left:88px;
+	margin-top:44px;
+	font-size: 14px;
+    font-family: "SimHei";
+    color: rgb( 118, 119, 119 );
+    line-height: 1.286;
+    text-align: center;
+}
+
+.second2_ img{
+	margin-left:142px;
+	margin-top:40px;
+}
+
+.second2_{
+	float:left;
+}
+
+.fashion{
+	margin-left:88px;
+	margin-top:44px;
+	font-size: 14px;
+    font-family: "SimHei";
+    color: rgb( 118, 119, 119 );
+    line-height: 1.286;
+    text-align: center;
+}
+
+.second3_ img{
+	margin-left:142px;
+	margin-top:40px;
+}
+
+.second3_{
+	float:left;
+}
+
+.full{
+	margin-left:88px;
+	margin-top:44px;
+	font-size: 14px;
+    font-family: "SimHei";
+    color: rgb( 118, 119, 119 );
+    line-height: 1.286;
+    text-align: center;
+}
+
+.second4_ img{
+	margin-left:142px;
+	margin-top:40px;
+}
+
+.second4_{
+	float:left;
+}
+
+<!--about_new_world-->
+.about_new_world{
+	width:100%;
+	height:360px;
+}
+
+.about_new_world img{
+	margin-top:83px;
+	margin-left:593px;
+}
+
+.about{
+	font-size: 53.586px;
+    font-family: "SimHei";
+    color: rgba( 50, 51, 51, 0.502 );
+    line-height: 1.056;
+    text-align: center;
+	margin-top:50px;
+}
+
+.aboutK{
+	width:1280px;
+	height:360px;
+	background-color:#ededed;
+}
+
+<!--search-->
+.search{
+	position:relative;
+}
+
+.search img{
+}
+
+.test{
+	width:450px;
+	height:132px;
+	position:absolute;
+	top: 1576px;
+    left: 435px;
+	font-size: 21px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 255, 255, 255 );
+    line-height: 1.994;
+	text-align:center;
+}
+
+.test span{
+	border-bottom:2px solid #FFF;
+}
+
+.test2{
+	font-size: 12px;
+    font-family: "Microsoft YaHei";
+    color: rgba( 255, 255, 255, 0.8 );
+    line-height: 2.605;	
+}
+
+.options{
+	width:1280px;
+	height:166px;
+	position:absolute;
+	top: 1700px;
+	margin-left:90px;
+}
+
+.options input{
+	width: 236px;
+    height: 36px;
+	background-color:#bf4e48;
+	font-size: 14px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 255, 255, 255 );
+    line-height: 1.896;
+	margin-left:30px;
+	border:0;
+}
+
+.options select{
+	width: 236px;
+    height: 36px;
+	font-size: 12px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 168, 170, 170 );
+    line-height: 2.213;
+	margin-left:30px;
+	border:0;
+}
+
+<!--上海活动-->
+.shanghai{
+	width:1280px;
+	height:607px;
+	background-color:#000;
+}
+
+.img{
+	width:215px;
+	height:336px;
+	background-color:#FFF;
+}
+
+.img img{
+	margin-top:15px;
+}
+
+.k1{
+	display:inline-block;
+	margin-top:100px;
+	margin-left:36px;
+}
+
+.small{
+	font-size: 14px;
+    font-family: "SimHei";
+    color: rgb( 118, 119, 119 );
+    line-height: 1.286;
+    text-align: center;
+}
+
+.1{
+	font-size: 18px;
+    font-family: "SimHei";
+    color: #000;
+    line-height: 1.286;
+    text-align: center;
+}
+
+.shanghai{
+	font-size: 24px;
+    font-family: "SimHei";
+    color: #000;
+    line-height: 1.286;
+    text-align: center;
+}
+
+<!--TIME-->
+.time{
+	position:relative;
+}
+
+.t1{
+	position:absolute;
+	top:2450px;
+	left:35px;
+}
+
+.t2{
+	width:431px;
+	height:567px;
+	background-color:#FFF;
+	position:absolute;
+	top:2450px;
+	left:885px;
+}
+
+.TIME{
+	font-size: 49.473px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 255, 255, 255 );
+	position:absolute;
+	top:130px;
+	left:236px;
+	text-align:center;
+}
+
+.T1{
+	font-size: 157.788px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 255, 255, 255 );
+}
+
+.T2{
+	font-size: 21.915px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 255, 255, 255 );
+}
+
+.triangle-left {
+    position: absolute;
+    left: 825px;
+    top: 50%;
+    width: 0;
+    height: 0;
+    border-top: 15px solid transparent;
+    border-right: 25px solid #fff;
+    border-bottom: 15px solid transparent;
+}
+
+.xin{
+	font-size: 21px;
+    font-family: "SimHei";
+    color: rgb( 50, 51, 51 );
+    text-align: center;
+}
+
+.one{
+	color:#eb4e49;
+	font-size: 21px;
+    font-family: "SimHei";
+    line-height: 1.446;
+    text-align: center;
+}
+
+.text{
+	font-size: 12px;
+    font-family: "SimSun";
+    color: rgb( 170, 170, 170 );
+    line-height: 2.5;
+	margin-left:70px;
+	margin-top:160px;
+}
+
+.t2 input{
+	border-color:#eb4e49;
+	background-color:#FFF;
+	width: 107px;
+    height: 35px;
+	margin-top:50px;
+	margin-left:160px;
+	border:1px #e84e4c solid;
+}
+
+<!--new time-->
+.new_time{
+	position:relative;
+}
+
+.red{
+	width:426px;
+	height:521px;
+	background-color:#e8504f;
+	margin-top:662px;
+	position:relative;
+}
+
+.red input{
+	width: 170px;
+    height: 44px;
+	border-color:#FFF;
+	background-color:#e8504f;
+	margin-left:130px;
+	margin-top:20px;
+	font-size: 21px;
+    font-family: "SimHei";
+    color: #FFF;
+    line-height: 1.143;
+	position:absolute;
+	top:270px;
+	left:0;
+	border:1px #FFFFFF solid;
+}
+
+.new_time img{
+	margin-top:-521px;
+	margin-left:850px;
+}
+
+.text1{
+	font-size: 21px;
+    font-family: "SimHei";
+    color: #FFF;
+    line-height: 1.446;
+    text-align: center;
+	position:absolute;
+	top:170px;
+	left:0;
+	margin-left:128px;
+}
+
+.text_line1{
+	width:31px;
+	height:3px;
+	background-color: #FFF;
+	margin-left:196px;
+	position:absolute;
+	top:254px;
+	left::0;
+}
+
+.text_line2{
+	width:31px;
+	height:3px;
+	background-color:#a7a7a7;
+	margin-left:196px;
+	position:absolute;
+	top:254px;
+	left::0;
+}
+
+.white input{
+	width: 170px;
+    height: 44px;
+	border-color:#e8504f;
+	margin-top:20px;
+	background-color: #FFF;
+	margin-left:130px;
+	font-size: 21px;
+    font-family: "SimHei";
+    color:#e8504f;
+    line-height: 1.143;
+	position:absolute;
+	top:270px;
+	left:0;
+	border:1px #e84e4c solid;
+}
+
+.white{
+	width:426px;
+	height:521px;
+	background-color: #FFF;
+	margin-top:-521px;
+	margin-left:426px;
+	position:relative;
+}
+
+.text2{
+	font-size: 21px;
+    font-family: "SimHei";
+    color:#2f2f2f;
+    line-height: 1.446;
+    text-align: center;
+	position:absolute;
+	top:170px;
+	left:0;
+	margin-left:128px;
+}
+
+.triangle-right {
+    position: absolute;
+    left: 887px;
+    top: 3260px;
+    width: 0;
+    height: 0;
+    border-top: 15px solid transparent;
+    border-left: 25px solid #fff;
+    border-bottom: 15px solid transparent;
+}
+
+<!--be volunteer-->
+.be_volunteer{
+	position:relative;
+}
+
+.our_volunteer{
+	font-size: 21px;
+    font-family: "SimHei";
+    color: rgb( 50, 51, 51 );
+    line-height: 1.446;
+    text-align: center;
+	margin-top:60px;
+}
+
+.our_line{
+	width:30px;
+	height:2px;
+	background-color:#e8504f;
+	margin-left:626px;
+}
+
+.big_family{
+	font-size: 12px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 170, 170, 170 );
+    line-height: 1.5;
+    text-align: center;
+	margin-top:12px;
+}
+
+.pro{
+	width:426px;
+	height:300px;
+}
+
+.volunteer{
+	font-size: 14px;
+    font-family: "SimHei";
+    color: rgba( 35, 24, 21, 0.8 );
+    line-height: 1.929;
+	margin-top:60px;
+	margin-left:138px;
+}
+
+.volunteer span{
+	font-size: 12px;
+    font-family: "SimSun";
+    color: rgba( 35, 24, 21, 0.6 );
+    line-height: 1.75;
+}
+
+.power{
+	font-size: 14px;
+    font-family: "SimHei";
+    color: rgba( 35, 24, 21, 0.8 );
+    line-height: 1.929;
+	margin-top:35px;
+	margin-left:138px;
+}
+
+.power span{
+	font-size: 12px;
+    font-family: "SimSun";
+    color: rgba( 35, 24, 21, 0.6 );
+    line-height: 1.75;
+}
+
+.more{
+	font-size: 14px;
+    font-family: "SimHei";
+    color: rgba( 35, 24, 21, 0.8 );
+    line-height: 1.929;
+	margin-top:35px;
+	margin-left:138px;
+}
+
+.more span{
+	font-size: 12px;
+    font-family: "SimSun";
+    color: rgba( 35, 24, 21, 0.6 );
+    line-height: 1.75;
+}
+
+.form{
+	position:absolute;
+	top:3730px;
+	left:530px;
+}
+
+.input{
+	width:311px;
+	height:41px;
+	background-color:#ededef;
+	margin-left:20px;
+	margin-top:12px;
+	padding-left:10px;
+	border:0px #ededef;
+}
+
+.des{
+	width: 652px;
+    height: 121px;
+	background-color:#ededef;
+	margin-top:12px;
+	margin-left:20px;
+	padding-left:10px;
+	border:0px #ededef;
+}
+
+.submit{
+	width: 662px;
+    height: 41px;
+    background-color:#ededef;
+	margin-top:12px;
+	margin-left:20px;
+	border:0px #ededef;
+}
+
+<!--contact us-->
+.contact_us{
+}
+
+.bg{
+	width:1280px;
+	height:358px;
+	background-color:#33363f;
+	margin-top:100px;
+}
+
+.contact{
+	font-size: 21px;
+    font-family: "SimHei";
+    color: rgb( 255, 255, 255 );
+    line-height: 2.303;
+    text-align: center;
+	padding-top:90px;
+}
+
+.contact span{
+	font-size: 12px;
+    font-family: "SimSun";
+    color: rgb( 255, 255, 255 );
+    line-height: 1.5;
+    text-align: center;
+}
+
+.s1{
+	width: 431px;
+    height: 41px;
+	border:0;
+	background-color:#FFF;
+	margin-top:20px;
+	margin-left:372px;
+	font-size: 14px;
+    font-family: "Microsoft YaHei";
+    color: rgb( 170, 170, 170 );
+    line-height: 1.927;
+}
+
+.s2{
+	width: 81px;
+    height: 44px;
+	border:0;
+	background-color:#717179;
+	margin-top:20px;
+}
+
+.icon{
+	margin-left:520px;
+	margin-top:35px;
+}
+
+.icon img{
+	margin-left:27px;
+}
+
+<!--网页底部-->
+
+.back{
+	font-size: 12px;
+    font-family: "SimSun";
+    color: rgb( 255, 255, 255 );
+    line-height: 2.25;
+	float:right;
+}
+
+.bgF{
+	width:1280px;
+	height:62px;
+	background-color:#30303a;
+}
